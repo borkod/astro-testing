@@ -22,7 +22,9 @@
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"astro-build.astro-vscode"
+				"astro-build.astro-vscode",
+				"github.copilot",
+				"github.copilot-chat"
 			]
 		}
 	}
